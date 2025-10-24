@@ -1,0 +1,26 @@
+[
+  {
+    "name": "พิพิธภัณฑ์สิรินธร (ไดโนเสาร์ภูคุ้มข้าว)",
+    "keywords": ["ไดโนเสาร์", "พิพิธภัณฑ์", "สิรินธร", "ภูคุ้มข้าว"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/sirinthon1.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/sirinthon1.jpg"
+  },
+  {
+    "name": "วัดกลางพระอารามหลวง",
+    "keywords": ["วัดกลาง"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/watkang01.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/watkang01.jpg"
+  },
+  {
+    "name": "พระธาตุยาคู",
+    "keywords": ["พระธาตุยาคู", "ยาคู"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/yakult2.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/yakult2.jpg"
+  },
+  {
+    "name": "อนุสาวรีย์พระยาชัยสุนทร (ท้าวโสมพะมิตร)",
+    "keywords": ["ชัยสุนทร", "โสมพะมิตร"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/chai01.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/chai01.jpg"
+  }
+]
