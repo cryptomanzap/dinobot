@@ -52,7 +52,14 @@
     "keywords": ["หาดดอกเกด", "หาด"],
     "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/had.jpg",
     "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/had.jpg"
+  },
+  {
+    "name": "ตลาดโรงสี",
+    "keywords": ["ตลาดโรงสี", "ตลาดต้องชม"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/tarad.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/tarad.jpg"
   }
   
 
 ]
+
