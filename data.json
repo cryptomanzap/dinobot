@@ -22,5 +22,37 @@
     "keywords": ["ชัยสุนทร", "โสมพะมิตร"],
     "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/chai01.jpg",
     "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/chai01.jpg"
+  },
+  {
+    "name": "เขื่อนลำปาว",
+    "keywords": ["เขื่อนลำปาว", "เขื่อน", "ลำปาว"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/dam1.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/dam1.jpg"
+  },
+  {
+    "name": "สะพานเทพสุดา",
+    "keywords": ["สะพานเทพสุดา", "สะพาน", "สะพานข้ามเขื่อนลำปาว"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/bride1.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/bride1.jpg"
+  },
+  {
+    "name": "วัดพุทธนิมิต (ภูค่าว)",
+    "keywords": ["วัดพุทธนิมิต", "ภูค่าว"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/wat02.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/wat02.jpg"
+  },
+  {
+    "name": "เมืองฟ้าแดดสงยาง",
+    "keywords": ["เมืองฟ้าแดดสงยาง", "ฟ้าแดด"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/fardad.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/fardad.jpg"
+  },
+  {
+    "name": "หาดดอกเกด",
+    "keywords": ["หาดดอกเกด", "หาด"],
+    "imageUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/had.jpg",
+    "sourceUrl": "https://raw.githubusercontent.com/cryptomanzap/dinobot/main/had.jpg"
   }
+  
+
 ]
